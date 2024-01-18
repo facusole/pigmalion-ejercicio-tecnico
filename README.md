@@ -1,7 +1,7 @@
 # Pigmalion - Examen Técnico Trainee
 
-## Dada la siguiente problemática: ¿puede un número X formarse
-usando la suma de 2 elementos de un array?
+## Dada la siguiente problemática: ¿puede un número X formarse usando la suma de 2 elementos de un array?
+
 - Ejemplo 1
 Input: nums = [1,4,3,9], requiredSum = 8
 Output: False
